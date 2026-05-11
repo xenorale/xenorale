@@ -34,9 +34,17 @@
 ---
 
 ### 📊 Статистика активности:
-![Stats](https://github-readme-stats.vercel.app/api?username=xenorale&show_icons=true&theme=nord&hide_border=false&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9&bg_color=2E3440)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenorale&layout=compact&theme=nord&hide_border=false&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440)
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=xenorale&show_icons=true&theme=nord&hide_border=false&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9&bg_color=2E3440" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenorale&layout=compact&theme=nord&hide_border=false&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenorale&theme=nord&hide_border=false" alt="Streak Stats" />
 </p>
