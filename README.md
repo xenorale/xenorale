@@ -1,8 +1,6 @@
-# Владислав (xenorale) 👨‍💻
-
-**Senior Python Developer | Architect | Automation Expert**
-
-Работаю над тем, чтобы превращать сложную рутину в элегантную автоматизированность. Специализируюсь на проектировании отказоустойчивых систем, высоконагруженных API и интеллектуальных инструментов автоматизации.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Привет!+Я+Владислав+(xenorale);Senior+Python+Developer;Automation+Architect;AI+Integrator" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -12,7 +10,6 @@
 *   **Databases:** `PostgreSQL`, `Redis`, `MongoDB`, `SQLAlchemy`
 *   **Automation:** `Playwright (Stealth)`, `Selenium`, `Puppeteer`
 *   **Infrastructure:** `Docker`, `Git`, `CI/CD`, `Linux Administration`
-*   **AI:** `Grok`, `OpenAI API`, `Computer Vision (OpenCV)`
 
 ---
 
@@ -23,14 +20,20 @@
 
 ---
 
-### 📈 Статистика и навыки:
+### 🐍 Мой календарь активности (Snake Game):
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xenorale/xenorale/main/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+### 📈 Стек в иконках:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
